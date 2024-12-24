@@ -27,8 +27,6 @@
 <p>Как решал:<p>
 
 > <a href="https://roman-qabugreport.atlassian.net/wiki/spaces/library/pages/294913/1+2">Ссылка на проект</a>
-> <p> логин: romaintsapko@yandex.ru </p>
-> <p> пароль: DoubleKEK404 </p>
  
  <p>Выводы (итоги):<p>
 <ol>
